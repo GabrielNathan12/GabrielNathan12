@@ -2,14 +2,14 @@
 
 Olá, eu sou Gabriel Nathan! 👨‍💻 Desenvolvedor Full-Stack apaixonado por tecnologia e sempre em busca de aprender coisas novas. Seja bem-vindo ao meu pequeno espaço aqui no GitHub! 
 
-## Sobre Mim
+## 😆 Sobre Mim
 
 - 🎓 Atualmente estou cursando Ciência da Computação pela UFLA.
 - 💼 Estou em busca de oportunidades para iniciar minha carreira como desenvolvedor.
 - 🌱 Estou constantemente aprendendo e me aprimorando em tecnologias como Node.js, ReactJS e muito mais!
 - 🤝 Estou aberto(a) a colaborações e projetos interessantes.
 
-## Principais Tecnologias
+## 🤓 Principais Tecnologias
 
 - 💻 JavaScript, Typescript, Node.js, ReactJS, Angular, Java, Spring Boot, PHP e Laravel
 - 🌐 HTML, CSS, Bootstrap
@@ -18,14 +18,14 @@ Olá, eu sou Gabriel Nathan! 👨‍💻 Desenvolvedor Full-Stack apaixonado por
 - 🐳 Docker
 - ☸ Kubernetes
 
-## Projetos Destacados
+## 😎 Projetos Destacados
 
 Aqui estão alguns dos meus projetos que você pode conferir:
 
 - [Curso Spring Boot](https://github.com/GabrielNathan12/Curso-Java-Rocketseat) : Api Back-end com Docker e Kubernetes
 - [Dev Jobs](https://github.com/vitormeloa/gcc188-devjobs): Trabalho Final da Disciplina Engenharia de Software
 
-## Entre em Contato
+## 🤝 Entre em Contato
 
 Se você está interessado em colaborar em projetos, discutir oportunidades de trabalho ou apenas quer bater um papo, não hesite em me contatar!
 
